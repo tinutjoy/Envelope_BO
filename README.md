@@ -11,6 +11,6 @@ startup.m to add all the files under the current path.
 
 run demo_EnvelopeBO_MLP for experiment on MLP
 
-If you use this repo, please cite the following paper.
+If you use this repo, please cite the following paper:
 
 Joy, T.T., Rana, S., Gupta, S. and Venkatesh, S., 2019. A flexible transfer learning framework for Bayesian optimization with convergence guarantee. Expert Systems with Applications, 115, pp.656-672.
